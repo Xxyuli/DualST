@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Citation
 
-This version of implementation is only for learning purpose. For research, please refer to  and  cite from the following paper:
+This repository contains a reference implementation for learning purposes. If you find it useful for your research, please cite the corresponding paper:
 ```
 @article{li2024dual,
   title={Dual-track spatio-temporal learning for urban flow prediction with adaptive normalization},
